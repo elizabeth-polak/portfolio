@@ -224,13 +224,15 @@ text-align:center;
 
   .photo {
     width: 100%;
+    max-width: 100%;
   }
 
   .ja img {
     width:100%;
-    min-width: 50%;
+    min-width: 0;
     max-width: 100%;
     margin-right: 0;
+    display: block;
   }
 
   .ja-text {
