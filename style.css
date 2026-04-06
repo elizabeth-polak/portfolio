@@ -36,7 +36,7 @@ margin-bottom: 0;
 min-width: 800px;
 width: 40vw;        /* zajmuje zawsze 50% szerokości ekranu */
 height: auto;
-align-self: flex-end;  /* przyklejone do dołu kontenera */
+
   
 }
 
