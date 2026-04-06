@@ -219,12 +219,12 @@ text-align:center;
   }
 
   .photo {
-    width: 50%;
+    width: 100%;
   }
 
   .ja img {
-    width:50%;
-    max-width: 100%;
+    width:100%;
+    max-width: 0;
     margin-right: 0;
   }
 
