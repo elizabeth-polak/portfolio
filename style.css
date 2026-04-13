@@ -277,10 +277,5 @@ justify-content: center;
     align-self: auto;
   }
   
-  .lightbox img {
-  max-width: 100%;
-  height: auto;
-}
-
 
 }
