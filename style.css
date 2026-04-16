@@ -200,6 +200,25 @@ text-align:center;
 }
 
 
+
+.grid3 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* TYLKO dla eya.suszi */
+.grid3 img {
+  width: 550px;   /* większa miniaturka */
+  height: auto;        /* usuwa blokadę 312px */
+  max-width: 100%;
+}
+
+#eya-big {
+  max-width: 100vw;
+  max-height: none;
+}
+
 /*II podstrona*/
 
 
